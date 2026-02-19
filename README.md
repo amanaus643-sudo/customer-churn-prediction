@@ -13,15 +13,10 @@ Customer churn directly impacts company revenue and growth. Businesses need proa
 ## 🛠 Tools & Technologies
 
 Python
-
 Pandas & NumPy – Data manipulation and analysis
-
 scikit-learn – Machine learning models
-
 Matplotlib & Seaborn – Data visualization
-
 SQL – Data querying and extraction
-
 Jupyter Notebook – Development environment 
 
 
@@ -30,31 +25,22 @@ Jupyter Notebook – Development environment
 The dataset contains customer demographic and service usage information, including:
 
 Customer tenure
-
 Contract type
-
 Monthly charges
-
 Payment method
-
 Service subscriptions
-
 Churn status (Target Variable)
+Dataset Source: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
 ## 🔎 Methodology
 
 Data Cleaning and Preprocessing
-
 Exploratory Data Analysis (EDA)
-
 Feature Engineering
 
 Model Training using:
-
 Logistic Regression
-
 Random Forest Classifier
-
 Model Evaluation and Performance Comparison
 
 
@@ -69,9 +55,7 @@ The Random Forest model achieved the best performance and was selected as the fi
 ## 📈 Key Insights
 
 Customers with month-to-month contracts showed higher churn probability.
-
 Higher monthly charges correlated with increased churn risk.
-
 Long-term customers were significantly less likely to churn.
 
 
@@ -79,24 +63,17 @@ Long-term customers were significantly less likely to churn.
 ## 🧠 Skills Demonstrated
 
 Data Cleaning & Preprocessing
-
 Exploratory Data Analysis (EDA)
-
 Machine Learning Modeling
-
 Data Visualization
-
 Business Insight Generation
-
 Predictive Analytics
 
 
 ## 🚀 Future Improvements
 
 Hyperparameter tuning for improved accuracy
-
 Model deployment using Streamlit or Flask
-
 Real-time churn prediction pipeline
 
 
